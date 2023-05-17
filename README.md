@@ -6,6 +6,7 @@
 <br>
 管理员界面
 <br>
+
 ![image](https://github.com/promise-xinghai/supermarket/assets/133832761/2f93a89f-bbfc-47d6-9a2a-bb00b30ca001)
 
 ![image](https://github.com/promise-xinghai/supermarket/assets/133832761/920b874c-8d8b-479c-89e8-b37d02e4a701)
